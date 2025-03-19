@@ -7,8 +7,8 @@ keywords:
   - "web-app"
 
 maintainers:
-  - name: "Anshul Chauhan"
-    email: "anshulc55@icloud.com"
+  - name: "test"
+    email: "test@icloud.com"
 
 # A chart can be either an 'application' or a 'library' chart.
 #
