@@ -7,8 +7,8 @@ keywords:
   - "web-app"
 
 maintainers:
-  - name: "test"
-    email: "test@icloud.com"
+  - name: "test2"
+    email: "test2@icloud.com"
 
 # A chart can be either an 'application' or a 'library' chart.
 #
